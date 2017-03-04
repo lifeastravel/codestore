@@ -1,3 +1,3 @@
 # getstart
-some code store here
+some code store here.
 code some to impove skills.
